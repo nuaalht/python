@@ -16,10 +16,10 @@ def main():
     # driver.get("https://www.zhihu.com/question/35931586") # 你的日常搭配是什么样子？
     # driver.get("https://www.zhihu.com/question/61235373") # 女生腿好看胸平是一种什么体验？
     # driver.get("https://www.zhihu.com/question/28481779") # 腿长是一种什么体验？
-    driver.get("https://www.zhihu.com/question/19671417") # 拍照时怎样摆姿势好看？
+    # driver.get("https://www.zhihu.com/question/19671417") # 拍照时怎样摆姿势好看？
     # driver.get("https://www.zhihu.com/question/20196263") # 女性胸部过大会有哪些困扰与不便？
     # driver.get("https://www.zhihu.com/question/46458423") # 短发女孩要怎么拍照才性感？
-    # driver.get("https://www.zhihu.com/question/26037846") # 身材好是一种怎样的体验？
+    driver.get("https://www.zhihu.com/question/26037846") # 身材好是一种怎样的体验？
 
 # ********Scroll to the bottom, and click the "view more" button ****
     def execute_times(times):
